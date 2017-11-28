@@ -1,0 +1,565 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3979A09B1F7D33850051D8A6 /* 6.png in Resources */ = {isa = PBXBuildFile; fileRef = 3979A09A1F7D33850051D8A6 /* 6.png */; };
+		3979D4451F7A4E8D00E79BE6 /* Untitled-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 3979D4441F7A4E8D00E79BE6 /* Untitled-1.png */; };
+		8A17689F1F7809BD003F8CD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A17689E1F7809BD003F8CD9 /* AppDelegate.swift */; };
+		8A1768A11F7809BD003F8CD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768A01F7809BD003F8CD9 /* ViewController.swift */; };
+		8A1768A41F7809BD003F8CD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768A21F7809BD003F8CD9 /* Main.storyboard */; };
+		8A1768A61F7809BD003F8CD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768A51F7809BD003F8CD9 /* Assets.xcassets */; };
+		8A1768A91F7809BD003F8CD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768A71F7809BD003F8CD9 /* LaunchScreen.storyboard */; };
+		8A1768B41F7809BD003F8CD9 /* STREAM_TVTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768B31F7809BD003F8CD9 /* STREAM_TVTests.swift */; };
+		8A1768BF1F7809BD003F8CD9 /* STREAM_TVUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768BE1F7809BD003F8CD9 /* STREAM_TVUITests.swift */; };
+		8A1768CD1F780B32003F8CD9 /* STREAMViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768CC1F780B32003F8CD9 /* STREAMViewController.swift */; };
+		8A1768CF1F780B7D003F8CD9 /* Streaming bosq.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8A1768CE1F780B7D003F8CD9 /* Streaming bosq.swift */; };
+		8A1768D31F78127D003F8CD9 /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D21F78127D003F8CD9 /* play.png */; };
+		8A1768D51F7812C8003F8CD9 /* INFO.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D41F7812C8003F8CD9 /* INFO.png */; };
+		8A1768DA1F78143D003F8CD9 /* gmail.png in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D71F78143D003F8CD9 /* gmail.png */; };
+		8A1768DB1F78143D003F8CD9 /* insta.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 8A1768D81F78143D003F8CD9 /* insta.jpeg */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8A1768B01F7809BD003F8CD9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A1768931F7809BD003F8CD9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A17689A1F7809BD003F8CD9;
+			remoteInfo = "STREAM TV";
+		};
+		8A1768BB1F7809BD003F8CD9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8A1768931F7809BD003F8CD9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A17689A1F7809BD003F8CD9;
+			remoteInfo = "STREAM TV";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3979A09A1F7D33850051D8A6 /* 6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6.png; sourceTree = "<group>"; };
+		3979D4441F7A4E8D00E79BE6 /* Untitled-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Untitled-1.png"; sourceTree = "<group>"; };
+		8A17689B1F7809BD003F8CD9 /* STREAM TV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "STREAM TV.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A17689E1F7809BD003F8CD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		8A1768A01F7809BD003F8CD9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		8A1768A31F7809BD003F8CD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		8A1768A51F7809BD003F8CD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		8A1768A81F7809BD003F8CD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		8A1768AA1F7809BD003F8CD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A1768AF1F7809BD003F8CD9 /* STREAM TVTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "STREAM TVTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A1768B31F7809BD003F8CD9 /* STREAM_TVTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STREAM_TVTests.swift; sourceTree = "<group>"; };
+		8A1768B51F7809BD003F8CD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A1768BA1F7809BD003F8CD9 /* STREAM TVUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "STREAM TVUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		8A1768BE1F7809BD003F8CD9 /* STREAM_TVUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = STREAM_TVUITests.swift; sourceTree = "<group>"; };
+		8A1768C01F7809BD003F8CD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8A1768CC1F780B32003F8CD9 /* STREAMViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = STREAMViewController.swift; sourceTree = "<group>"; };
+		8A1768CE1F780B7D003F8CD9 /* Streaming bosq.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Streaming bosq.swift"; sourceTree = "<group>"; };
+		8A1768D21F78127D003F8CD9 /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
+		8A1768D41F7812C8003F8CD9 /* INFO.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = INFO.png; sourceTree = "<group>"; };
+		8A1768D71F78143D003F8CD9 /* gmail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = gmail.png; sourceTree = "<group>"; };
+		8A1768D81F78143D003F8CD9 /* insta.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = insta.jpeg; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8A1768981F7809BD003F8CD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A1768AC1F7809BD003F8CD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A1768B71F7809BD003F8CD9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8A1768921F7809BD003F8CD9 = {
+			isa = PBXGroup;
+			children = (
+				8A17689D1F7809BD003F8CD9 /* STREAM TV */,
+				8A1768B21F7809BD003F8CD9 /* STREAM TVTests */,
+				8A1768BD1F7809BD003F8CD9 /* STREAM TVUITests */,
+				8A17689C1F7809BD003F8CD9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8A17689C1F7809BD003F8CD9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8A17689B1F7809BD003F8CD9 /* STREAM TV.app */,
+				8A1768AF1F7809BD003F8CD9 /* STREAM TVTests.xctest */,
+				8A1768BA1F7809BD003F8CD9 /* STREAM TVUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8A17689D1F7809BD003F8CD9 /* STREAM TV */ = {
+			isa = PBXGroup;
+			children = (
+				3979A09A1F7D33850051D8A6 /* 6.png */,
+				8A17689E1F7809BD003F8CD9 /* AppDelegate.swift */,
+				8A1768A01F7809BD003F8CD9 /* ViewController.swift */,
+				8A1768A21F7809BD003F8CD9 /* Main.storyboard */,
+				8A1768A51F7809BD003F8CD9 /* Assets.xcassets */,
+				8A1768A71F7809BD003F8CD9 /* LaunchScreen.storyboard */,
+				8A1768AA1F7809BD003F8CD9 /* Info.plist */,
+				8A1768CC1F780B32003F8CD9 /* STREAMViewController.swift */,
+				8A1768CE1F780B7D003F8CD9 /* Streaming bosq.swift */,
+				8A1768D41F7812C8003F8CD9 /* INFO.png */,
+				3979D4441F7A4E8D00E79BE6 /* Untitled-1.png */,
+				8A1768D71F78143D003F8CD9 /* gmail.png */,
+				8A1768D81F78143D003F8CD9 /* insta.jpeg */,
+				8A1768D21F78127D003F8CD9 /* play.png */,
+			);
+			path = "STREAM TV";
+			sourceTree = "<group>";
+		};
+		8A1768B21F7809BD003F8CD9 /* STREAM TVTests */ = {
+			isa = PBXGroup;
+			children = (
+				8A1768B31F7809BD003F8CD9 /* STREAM_TVTests.swift */,
+				8A1768B51F7809BD003F8CD9 /* Info.plist */,
+			);
+			path = "STREAM TVTests";
+			sourceTree = "<group>";
+		};
+		8A1768BD1F7809BD003F8CD9 /* STREAM TVUITests */ = {
+			isa = PBXGroup;
+			children = (
+				8A1768BE1F7809BD003F8CD9 /* STREAM_TVUITests.swift */,
+				8A1768C01F7809BD003F8CD9 /* Info.plist */,
+			);
+			path = "STREAM TVUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8A17689A1F7809BD003F8CD9 /* STREAM TV */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A1768C31F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TV" */;
+			buildPhases = (
+				8A1768971F7809BD003F8CD9 /* Sources */,
+				8A1768981F7809BD003F8CD9 /* Frameworks */,
+				8A1768991F7809BD003F8CD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "STREAM TV";
+			productName = "STREAM TV";
+			productReference = 8A17689B1F7809BD003F8CD9 /* STREAM TV.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8A1768AE1F7809BD003F8CD9 /* STREAM TVTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A1768C61F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TVTests" */;
+			buildPhases = (
+				8A1768AB1F7809BD003F8CD9 /* Sources */,
+				8A1768AC1F7809BD003F8CD9 /* Frameworks */,
+				8A1768AD1F7809BD003F8CD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A1768B11F7809BD003F8CD9 /* PBXTargetDependency */,
+			);
+			name = "STREAM TVTests";
+			productName = "STREAM TVTests";
+			productReference = 8A1768AF1F7809BD003F8CD9 /* STREAM TVTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		8A1768B91F7809BD003F8CD9 /* STREAM TVUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8A1768C91F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TVUITests" */;
+			buildPhases = (
+				8A1768B61F7809BD003F8CD9 /* Sources */,
+				8A1768B71F7809BD003F8CD9 /* Frameworks */,
+				8A1768B81F7809BD003F8CD9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8A1768BC1F7809BD003F8CD9 /* PBXTargetDependency */,
+			);
+			name = "STREAM TVUITests";
+			productName = "STREAM TVUITests";
+			productReference = 8A1768BA1F7809BD003F8CD9 /* STREAM TVUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8A1768931F7809BD003F8CD9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0830;
+				LastUpgradeCheck = 0830;
+				ORGANIZATIONNAME = "Haidar Rais";
+				TargetAttributes = {
+					8A17689A1F7809BD003F8CD9 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+					};
+					8A1768AE1F7809BD003F8CD9 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 8A17689A1F7809BD003F8CD9;
+					};
+					8A1768B91F7809BD003F8CD9 = {
+						CreatedOnToolsVersion = 8.3.3;
+						ProvisioningStyle = Automatic;
+						TestTargetID = 8A17689A1F7809BD003F8CD9;
+					};
+				};
+			};
+			buildConfigurationList = 8A1768961F7809BD003F8CD9 /* Build configuration list for PBXProject "STREAM TV" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 8A1768921F7809BD003F8CD9;
+			productRefGroup = 8A17689C1F7809BD003F8CD9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8A17689A1F7809BD003F8CD9 /* STREAM TV */,
+				8A1768AE1F7809BD003F8CD9 /* STREAM TVTests */,
+				8A1768B91F7809BD003F8CD9 /* STREAM TVUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8A1768991F7809BD003F8CD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A1768DB1F78143D003F8CD9 /* insta.jpeg in Resources */,
+				8A1768A91F7809BD003F8CD9 /* LaunchScreen.storyboard in Resources */,
+				8A1768D31F78127D003F8CD9 /* play.png in Resources */,
+				3979A09B1F7D33850051D8A6 /* 6.png in Resources */,
+				3979D4451F7A4E8D00E79BE6 /* Untitled-1.png in Resources */,
+				8A1768D51F7812C8003F8CD9 /* INFO.png in Resources */,
+				8A1768A61F7809BD003F8CD9 /* Assets.xcassets in Resources */,
+				8A1768DA1F78143D003F8CD9 /* gmail.png in Resources */,
+				8A1768A41F7809BD003F8CD9 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A1768AD1F7809BD003F8CD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A1768B81F7809BD003F8CD9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8A1768971F7809BD003F8CD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A1768CD1F780B32003F8CD9 /* STREAMViewController.swift in Sources */,
+				8A1768A11F7809BD003F8CD9 /* ViewController.swift in Sources */,
+				8A1768CF1F780B7D003F8CD9 /* Streaming bosq.swift in Sources */,
+				8A17689F1F7809BD003F8CD9 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A1768AB1F7809BD003F8CD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A1768B41F7809BD003F8CD9 /* STREAM_TVTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8A1768B61F7809BD003F8CD9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8A1768BF1F7809BD003F8CD9 /* STREAM_TVUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8A1768B11F7809BD003F8CD9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A17689A1F7809BD003F8CD9 /* STREAM TV */;
+			targetProxy = 8A1768B01F7809BD003F8CD9 /* PBXContainerItemProxy */;
+		};
+		8A1768BC1F7809BD003F8CD9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8A17689A1F7809BD003F8CD9 /* STREAM TV */;
+			targetProxy = 8A1768BB1F7809BD003F8CD9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8A1768A21F7809BD003F8CD9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8A1768A31F7809BD003F8CD9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		8A1768A71F7809BD003F8CD9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8A1768A81F7809BD003F8CD9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8A1768C11F7809BD003F8CD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8A1768C21F7809BD003F8CD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		8A1768C41F7809BD003F8CD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "STREAM TV/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Unique-Dev.STREAM-TV";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		8A1768C51F7809BD003F8CD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "STREAM TV/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Unique-Dev.STREAM-TV";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+		8A1768C71F7809BD003F8CD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "STREAM TVTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Unique-Dev.STREAM-TVTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/STREAM TV.app/STREAM TV";
+			};
+			name = Debug;
+		};
+		8A1768C81F7809BD003F8CD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = "STREAM TVTests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Unique-Dev.STREAM-TVTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/STREAM TV.app/STREAM TV";
+			};
+			name = Release;
+		};
+		8A1768CA1F7809BD003F8CD9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "STREAM TVUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Unique-Dev.STREAM-TVUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "STREAM TV";
+			};
+			name = Debug;
+		};
+		8A1768CB1F7809BD003F8CD9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				INFOPLIST_FILE = "STREAM TVUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "Unique-Dev.STREAM-TVUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
+				TEST_TARGET_NAME = "STREAM TV";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8A1768961F7809BD003F8CD9 /* Build configuration list for PBXProject "STREAM TV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A1768C11F7809BD003F8CD9 /* Debug */,
+				8A1768C21F7809BD003F8CD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A1768C31F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TV" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A1768C41F7809BD003F8CD9 /* Debug */,
+				8A1768C51F7809BD003F8CD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A1768C61F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TVTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A1768C71F7809BD003F8CD9 /* Debug */,
+				8A1768C81F7809BD003F8CD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8A1768C91F7809BD003F8CD9 /* Build configuration list for PBXNativeTarget "STREAM TVUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8A1768CA1F7809BD003F8CD9 /* Debug */,
+				8A1768CB1F7809BD003F8CD9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8A1768931F7809BD003F8CD9 /* Project object */;
+}
